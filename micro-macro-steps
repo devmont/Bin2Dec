@@ -1,0 +1,38 @@
+User Stories
+
+# User can enter up to 8 binary digits in one input field
+
+# User must be notified if anything other than a 0 or 1 was entered
+
+# User views the results in a single output field containing the decimal base equivalent of the binary number that was entered
+
+======================
+
+Micro Stories
+
+-> Create two functions (get input and verify if the input is valid
+
+## verify function
+
+-> define the valid chars
+-> verify the length
+-> verify if there is the valid chars
+-> If everything is true, than return true
+
+## Get input function
+
+-> while the verify funtion is false, do the input question to get the input
+
+## Transform binary to decimal
+
+-> transform input into substrings array
+-> get the reverse
+-> join everything
+-> transform string into array
+-> create a loop 
+-> print the result
+
+
+
+
+
